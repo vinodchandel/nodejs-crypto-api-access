@@ -1,2 +1,2 @@
-# nodejs-crypto-api-acess
+# nodejs-crypto-api-access
 Fetch crypto api data using nodejs
